@@ -1,3 +1,4 @@
+```
 smss.exe (Session Manager Subsystem)
 │
 ├──> Session 0 (System Session)
@@ -22,3 +23,4 @@ smss.exe (Session Manager Subsystem)
 |   ├── SearchUI.exe / SearchApp.exe (Cortana or Windows search)
 |   ├── OneDrive.exe (OneDrive sync client, if enabled)
 |   └── taskhostw.exe (Host for scheduled/COM tasks)
+```
